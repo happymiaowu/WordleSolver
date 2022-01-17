@@ -1,7 +1,7 @@
 # Wordle Solver
 
 ## Algorithm
-Construct a search tree and minimize the max of depth of each subtree.  
+Build a search tree and minimize the max of depth of each subtree.  
 
 ## HowTo
 ### Search Tree
